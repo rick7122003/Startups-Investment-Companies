@@ -1,2 +1,2 @@
-# Startups-Investment-Companies
-Startups Investment Companies
+# Startup-Investment-Companies
+Startup Investment Companies
